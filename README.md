@@ -1,5 +1,7 @@
 # Proje İsmi: My_Blog
 
+->Proje Linki: https://github.com/gamzecakan/My_Blog
+
 ## Proje İle İlgili Bilgiler
 ##### *Not: Bu proje BIM472 dersi için geliştirilmiş kişisel bir blog sitesidir.*
 
