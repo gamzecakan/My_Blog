@@ -154,4 +154,4 @@ Proje; 'Anasayfa', 'Hakkımda', 'Portfolyo', 'Blog', 'İletişim' partlarından 
   - Kurulum sırasında Apache web sunucusu ve MySQL veritabanı seçeneklerini işaretleyin.
 
 - XAMPP'yi başlatın ve Apache sunucusunu ve MySQL veritabanını çalışır duruma getirin.
-- Tarayıcınızda localhost üzerinde projenin çalıştığını görebilirsiniz. (ihtiyaç halinde port:3307 olarak belirtin.)
+- Tarayıcınızda localhost üzerinde projenin çalıştığını görebilirsiniz.
