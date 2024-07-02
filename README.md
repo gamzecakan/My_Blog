@@ -141,3 +141,17 @@ Proje; 'Anasayfa', 'Hakkımda', 'Portfolyo', 'Blog', 'İletişim' partlarından 
 - Kullanıcının yorumu yapmış olduğu saat, yorum kutusunun sağ altında görüntülenir.
 
 ![image](https://github.com/gamzecakan/My_Blog/assets/135230687/97dacd4a-6783-4dd2-a70e-ee3ba4d999a5)
+
+<hr>
+
+## Dağıtım
+- Projeyi yerel bilgisayarınıza klonlamak için aşağıdaki komutu terminal veya komut istemcisinde çalıştırın:
+  ```bash
+  git clone https://github.com/gamzecakan/My_Blog.git
+
+- Projenin çalışabilmesi için XAMPP gibi bir geliştirme ortamı gereklidir.
+  - XAMPP İndirme Sayfası'ndan XAMPP'yi indirin ve kurun.
+  - Kurulum sırasında Apache web sunucusu ve MySQL veritabanı seçeneklerini işaretleyin.
+
+- XAMPP'yi başlatın ve Apache sunucusunu ve MySQL veritabanını çalışır duruma getirin.
+- Tarayıcınızda localhost üzerinde projenin çalıştığını görebilirsiniz. (ihtiyaç halinde port:3307 olarak belirtin.)
